@@ -1,0 +1,8 @@
+/* This is tag selector block */
+h1{
+    color: brown;
+}
+/* This is id selector block */
+#header1 {
+    color: darkgreen;
+}
